@@ -5,3 +5,5 @@ Poster Link: https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-44beb
 American Association for Cancer Research, Atlanta, GA, March 2019. Predicting the prognosis for cancer patients with interleukins gene expression level, by Pawar SD, Stanam A.
 
 https://www.aacr.org/about-the-aacr/newsroom/news-releases/aacr-to-host-2019-annual-meeting-in-atlanta-march-29-april-3/
+
+Biology Graduate Student Association (BGSA), Georgia State University, American Association for Cancer Research (AACR) conference, 2019. Github [*2019: 8][**8]
