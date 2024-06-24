@@ -1,4 +1,4 @@
-# Interleukin_Pathway_Survival_Gene_Expression_Analysis collaboration with Dr. Stanam, University of Iowa https://www.linkedin.com/in/aditya-stanam-07bbb819/
+# Interleukin_Pathway_Survival_Gene_Expression_Analysis collaboration with Dr. Stanam, University of Iowa, Iowa City, USA. https://www.linkedin.com/in/aditya-stanam-07bbb819/
 [R: Biobase, GEOquery, survminer, survival]
 [Paper Link:](https://cancerres.aacrjournals.org/content/79/13_Supplement/4247)
 [Poster Link:](https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-44beb767-f231-49a1-81f1-5b2fdd46a92c)
