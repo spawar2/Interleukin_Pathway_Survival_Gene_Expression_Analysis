@@ -11,4 +11,4 @@ Biology Graduate Student Association (BGSA), Georgia State University, https://s
 
 <img width="303" alt="IL" src="https://github.com/spawar2/Interleukin_Pathway_Survival_Gene_Expression_Analysis/assets/25118302/7104f6d7-154c-47ab-bb9d-812579d61122">
 
-Abstract data.R: Pancreatic cancer, Head and Neck Cancer, Ovarian patients Microarray data read, Normalization, survival Kaplan Meir (KM) Analysis.
+Abstract data.R: Pancreatic cancer, Head and Neck Cancer, Ovarian patients Microarray data read, Microarray data read, robust multi array (RMA) Normalization, survival Kaplan Meir (KM) Analysis.
