@@ -4,7 +4,7 @@
 [Presentation Poster Link:](https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-44beb767-f231-49a1-81f1-5b2fdd46a92c)
 <img width="374" alt="AACR" src="https://github.com/spawar2/Interleukin_Pathway_Survival_Gene_Expression_Analysis/assets/25118302/65eca7f9-486d-42dd-982e-a9a7c6c2858a">
 <img width="213" alt="AACR" src="https://github.com/spawar2/Interleukin_Pathway_Survival_Gene_Expression_Analysis/assets/25118302/9a9057bb-7c8f-4956-877c-d0f75c5744a4">
-†(Abstract).
+†(Abstract). Digital Object Identifier (DOI)=Online International Standard Book Number (ISBN).
 †Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
 [American Association for Cancer Research, Atlanta, Georgia, 3 March, 2019. Predicting the prognosis for cancer patients with interleukins gene expression level, by Pawar SD, Stanam A.](https://www.aacr.org/about-the-aacr/newsroom/news-releases/aacr-to-host-2019-annual-meeting-in-atlanta-march-29-april-3/)
 ![download2](https://github.com/user-attachments/assets/8d0e292e-13f8-46fd-860b-dba1144bdeab)
