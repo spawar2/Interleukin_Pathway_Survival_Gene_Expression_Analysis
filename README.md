@@ -15,3 +15,4 @@ Predicting the prognosis for cancer patients with interleukins gene expression l
 
 Abstract data.R: Pancreatic cancer, Head and Neck Cancer, Ovarian patients Microarray data read, Microarray data read, robust multi array (RMA) Normalization, survival Kaplan Meir (KM) Analysis.
 selected function(getGEO, normalize.quantiles, merge, cluster_analysis, hclust, Kmeans, mas5, rowMeans, randomForest, survfit, chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table, BGmix, ccParams, TailPP, ccTrace, histTailPP, FDRplotTailPP, histccPred, plotFDR, plotPredChecks, exprSet).
+Associated Press Style
